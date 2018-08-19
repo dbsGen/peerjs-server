@@ -1,6 +1,6 @@
 {
   "name": "l2e-peer.js",
-  "version": "0.2.8",
+  "version": "0.2.10",
   "description": "Edit PeerJS for L2E p2p server.",
   "main": "lib/index.js",
   "bin": {
