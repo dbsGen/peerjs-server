@@ -1,14 +1,14 @@
 {
-  "name": "peer",
-  "version": "0.2.9",
-  "description": "PeerJS server component",
+  "name": "l2e-peer.js",
+  "version": "0.2.8",
+  "description": "Edit PeerJS for L2E p2p server.",
   "main": "lib/index.js",
   "bin": {
     "peerjs": "./bin/peerjs"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/peers/peerjs-server.git"
+    "url": "git://github.com/dbsGen/peerjs-server.git"
   },
   "author": "Michelle Bu, Eric Zhang",
   "license": "MIT",
